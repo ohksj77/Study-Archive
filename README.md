@@ -1,2 +1,2 @@
-# Study-Archive
-- 공부 내용 저장소
+# interview-archive
+- 인터뷰 질문/답변 및 꼬리질문 대비 이론 정리
