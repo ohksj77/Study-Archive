@@ -13,11 +13,17 @@
     - DesignPattern
     - Network
     - OperatingSystem
-- FIT
+- ETC
+    - CodingTest
+    - Fit
+    - LiveCoding
 - INFRA
     - Cloud
     - SystemDesign
     - Web
+- PROJECT
+    - TWTW
+    - GitRank
 - SKILLS
     - Docker
     - GithubActions
